@@ -169,7 +169,7 @@ function App() {
             <SocialLink href="https://www.linkedin.com/in/amirsp" icon={Linkedin} label="LinkedIn" />
             <SocialLink href="https://amirsp.com" icon={Globe} label="Personal Website" />
             <SocialLink href="https://twitter.com/amirsp" icon={Twitter} label="Twitter / X" />
-            <SocialLink href="https://github.com/amirsp" icon={Github} label="GitHub" />
+            <SocialLink href="https://github.com/amirspx" icon={Github} label="GitHub" />
             <SocialLink href="https://medium.com/@amirsp" icon={FileText} label="Medium" />
           </div>
         </div>
